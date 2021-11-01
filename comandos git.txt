@@ -8,3 +8,4 @@ Comandos GIT:
 - git log: ver todos os commits
 - git branch: ver as branches (colocando o nome depois é capaz de criar)
 - git checkout: trocar de branch
+- git merge: junta duas branches, trazendo as alterações de uma para a outra
