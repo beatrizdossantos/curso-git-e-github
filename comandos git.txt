@@ -1,0 +1,10 @@
+Comandos GIT:
+
+- git init: inicializa o repositório
+- git status: mostra ps arquivos que não estão preparados para commit, mas tem alterações
+- git add nome_do_arquivo ou . : papara os arquivos para serem commitados
+- git commit -m "mensagem": faz o commit
+- git rm --cached nome_do_arquivo: remove arquivo do commit
+- git log: ver todos os commits
+- git branch: ver as branches (colocando o nome depois é capaz de criar)
+- git checkout: trocar de branch
